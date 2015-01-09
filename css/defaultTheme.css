@@ -37,6 +37,7 @@
 	font-size: 100%;
 	font: inherit;
 	vertical-align: top;
+	box-sizing: content-box;
 	}
 
 .fht-table {
